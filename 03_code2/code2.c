@@ -9,7 +9,7 @@ int printTriangle(int size) {
         //print a "*"
       printf("*");
         //increment starCount
-      starCount += 1;
+      ++starCount;
      //when you finish counting on j, 
     }
      //print a newline ("\n")
