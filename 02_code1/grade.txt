@@ -1,0 +1,16 @@
+Grading at Sun Jul 12 22:36:35 UTC 2020
+Checking code1.c for legal syntax
+temp.c: In function ‘max’:
+temp.c:12:7: error: expected ‘;’ before ‘}’ token
+       }
+       ^
+temp.c: In function ‘main’:
+temp.c:20:75: error: expected ‘)’ before ‘;’ token
+   printf("max(0x451215AF, 0x91359AF) is %d\n", max(0x451215AF, 0x913591AF);
+                                                                           ^
+temp.c:22:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+The code did not have legal syntax!
+
+Overall Grade: F
