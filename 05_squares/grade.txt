@@ -1,8 +1,8 @@
-Grading at Thu Jul 16 20:36:42 UTC 2020
+Grading at Thu Jul 16 20:52:48 UTC 2020
 Trying to compile your code and link with squares_test.o
 Testing ./squares 1 0 0 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 0 5
 Your program produced the wrong output!
  - Incorrect
@@ -10,8 +10,8 @@ Testing ./squares 1 0 0 9
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 1 0 1 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 1 5
 Your program produced the wrong output!
  - Incorrect
@@ -19,8 +19,8 @@ Testing ./squares 1 0 1 9
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 1 0 3 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 3 5
 Your program produced the wrong output!
  - Incorrect
@@ -28,8 +28,8 @@ Testing ./squares 1 0 3 9
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 1 0 8 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 8 5
 Your program produced the wrong output!
  - Incorrect
