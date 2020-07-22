@@ -37,30 +37,30 @@ rectangle canonicalize(rectangle r) {
 }
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
-
+  rectangle inter_rect;
   // Canonicalize inputs
   r1 = canonicalize(r1);
   r2 = canonicalize(r2);
 
   // Check if the rectangle exists
   if (((r1.x  + r1.width < r2.x) || (r2.x + r2.width < r1.x)) ||((r1.y + r1.height < r2.y) || (r2.y + r2.height < r1.y))) {
-    r1.x = 0;
-    r1.y = 0;
-    r1.width = 0;
-    r1.height = 0;
+    inter_rect.x = 0;
+    inter_rect.y = 0;
+    inter_rect.width = 0;
+    inter_rect.height = 0;
 
-    return r1;
+    return inter_rect;
     
   int x = max(r1.x, r2.x);
   int y = max(r1.y, r1.y);
   int width = min(r1.x + r1.width, r2.x, r2.width) - x;
   int height = min(r1.y + r1.height, r2.y + r2.height) - y;
 
-  r1.x = x;
-  r1.y = y;
-  r1.width = width;
-  r1.height = height
-  return r1;
+  inter_rect.x = x;
+  inter_rect.y = y;
+  inter_rect.width = width;
+  inter_rect.height = height
+  return inter_rect;
 }
 
 //You should not need to modify any code below this line
