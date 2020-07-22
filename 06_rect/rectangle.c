@@ -35,6 +35,7 @@ rectangle canonicalize(rectangle r) {
   }
   return r;
 }
+
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
   rectangle inter_rect;
@@ -50,7 +51,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
     inter_rect.height = 0;
 
     return inter_rect;
-    
+  }  
   int x = max(r1.x, r2.x);
   int y = max(r1.y, r1.y);
   int width = min(r1.x + r1.width, r2.x + r2.width) - x;
@@ -60,6 +61,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
   inter_rect.y = y;
   inter_rect.width = width;
   inter_rect.height = height;
+
   return inter_rect;
 }
 
