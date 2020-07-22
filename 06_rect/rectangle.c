@@ -53,7 +53,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
     
   int x = max(r1.x, r2.x);
   int y = max(r1.y, r1.y);
-  int width = min(r1.x + r1.width, r2.x, r2.width) - x;
+  int width = min(r1.x + r1.width, r2.x + r2.width) - x;
   int height = min(r1.y + r1.height, r2.y + r2.height) - y;
 
   inter_rect.x = x;
