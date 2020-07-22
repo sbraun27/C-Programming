@@ -16,7 +16,7 @@ int max (int a, int b) {
 }
 
 //Declare your rectangle structure here!
-typdef struct rect {
+typedef struct rect {
   int x;
   int y;
   int width;
