@@ -26,12 +26,12 @@ typedef struct rect {
 rectangle canonicalize(rectangle r) {
   //WRITE THIS FUNCTION
   if (r.width < 0) {
-    r.x += r.width;
-    r.width = -r.width;
+    r.x = r.x + r.width;
+    r.width = -1*r.width;
   }
-  else if (r.height < 0) {
-    r.y += r.height;
-    r.height = -r.height;
+  if (r.height < 0) {
+    r.y = r.y + r.height;
+    r.height = -1*r.height;
   }
   return r;
 }
@@ -42,25 +42,20 @@ rectangle intersection(rectangle r1, rectangle r2) {
   // Canonicalize inputs
   r1 = canonicalize(r1);
   r2 = canonicalize(r2);
-
   // Check if the rectangle exists
-  if (((r1.x  + r1.width < r2.x) || (r2.x + r2.width < r1.x)) ||((r1.y + r1.height < r2.y) || (r2.y + r2.height < r1.y))) {
+  if (((r1.x + r1.width < r2.x) || (r2.x + r2.width < r1.x)) || ((r1.y + r1.height < r2.y) || (r2.y + r2.height < r1.y))) {
     inter_rect.x = 0;
     inter_rect.y = 0;
     inter_rect.width = 0;
     inter_rect.height = 0;
 
     return inter_rect;
-  }  
-  int x = max(r1.x, r2.x);
-  int y = max(r1.y, r1.y);
-  int width = min(r1.x + r1.width, r2.x + r2.width) - x;
-  int height = min(r1.y + r1.height, r2.y + r2.height) - y;
+  }
 
-  inter_rect.x = x;
-  inter_rect.y = y;
-  inter_rect.width = width;
-  inter_rect.height = height;
+  inter_rect.x = max(r1.x, r2.x);
+  inter_rect.y = max(r1.y, r2.y);
+  inter_rect.width = min(r1.x + r1.width, r2.x + r2.width) - inter_rect.x;
+  inter_rect.height = min(r1.y + r1.height, r2.y + r2.height) - inter_rect.y;
 
   return inter_rect;
 }
