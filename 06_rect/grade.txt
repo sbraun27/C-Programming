@@ -1,9 +1,6 @@
-Grading at Wed Jul 22 11:54:29 UTC 2020
+Grading at Wed Jul 22 11:55:04 UTC 2020
 Attempting to compile rectangle.c
 rectangle.c: In function ‘intersection’:
-rectangle.c:63:3: error: expected ‘;’ before ‘return’
-   return inter_rect;
-   ^
 rectangle.c:67:1: error: ISO C forbids nested functions [-Werror=pedantic]
  void printRectangle(rectangle r) {
  ^
