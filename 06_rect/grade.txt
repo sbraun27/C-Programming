@@ -1,12 +1,6 @@
-Grading at Wed Jul 22 11:53:44 UTC 2020
+Grading at Wed Jul 22 11:54:29 UTC 2020
 Attempting to compile rectangle.c
 rectangle.c: In function ‘intersection’:
-rectangle.c:56:15: error: too many arguments to function ‘min’
-   int width = min(r1.x + r1.width, r2.x, r2.width) - x;
-               ^
-rectangle.c:5:5: note: declared here
- int min (int a, int b) {
-     ^
 rectangle.c:63:3: error: expected ‘;’ before ‘return’
    return inter_rect;
    ^
