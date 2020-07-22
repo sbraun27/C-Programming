@@ -1,4 +1,4 @@
-Grading at Wed Jul 22 11:50:44 UTC 2020
+Grading at Wed Jul 22 11:53:06 UTC 2020
 Attempting to compile rectangle.c
 rectangle.c:19:8: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘struct’
  typdef struct rect {
