@@ -59,7 +59,7 @@ rectangle intersection(rectangle r1, rectangle r2) {
   inter_rect.x = x;
   inter_rect.y = y;
   inter_rect.width = width;
-  inter_rect.height = height
+  inter_rect.height = height;
   return inter_rect;
 }
 
