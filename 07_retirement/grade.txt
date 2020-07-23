@@ -1,7 +1,7 @@
-Grading at Thu Jul 23 12:25:57 UTC 2020
+Grading at Thu Jul 23 12:28:07 UTC 2020
 Attempting to compile retirement.c
 Checking for struct _retire_info
-Found on line 4, column 9 
+Found on line 4, column 1 
 Checking for field int months
 Found on line 5, column 3 
 Checking for field double contribution
@@ -9,14 +9,1759 @@ Found on line 6, column 3
 Checking for field double rate_of_return
 Found on line 7, column 3 
 Checking for typedef of struct _retire_info to retire_info
-You have a typedef for retire_info, but it is : 
-typedef struct _retire_info {
-where I instead expected you to define it to struct _retire_info
-not found
-Checking for void retirement (int startAge, double initial,  retire_info working,  retire_info retired)
 Found on line 10, column 1 
+Checking for void retirement (int startAge, double initial,  retire_info working,  retire_info retired)
+Found on line 12, column 1 
 Checking for int main(void)
-Found on line 30, column 1 
-Your code does not have the right struct, fields, and/or functions.
+Found on line 32, column 1 
+Trying to run retirement calculator..
+Line_1_did_not_match
+Line_2_did_not_match
+Line_3_did_not_match
+Line_4_did_not_match
+Line_5_did_not_match
+Line_6_did_not_match
+Line_7_did_not_match
+Line_8_did_not_match
+Line_9_did_not_match
+Line_10_did_not_match
+Line_11_did_not_match
+Line_12_did_not_match
+Line_13_did_not_match
+Line_14_did_not_match
+Line_15_did_not_match
+Line_16_did_not_match
+Line_17_did_not_match
+Line_18_did_not_match
+Line_19_did_not_match
+Line_20_did_not_match
+Line_21_did_not_match
+Line_22_did_not_match
+Line_23_did_not_match
+Line_24_did_not_match
+Line_25_did_not_match
+Line_26_did_not_match
+Line_27_did_not_match
+Line_28_did_not_match
+Line_29_did_not_match
+Line_30_did_not_match
+Line_31_did_not_match
+Line_32_did_not_match
+Line_33_did_not_match
+Line_34_did_not_match
+Line_35_did_not_match
+Line_36_did_not_match
+Line_37_did_not_match
+Line_38_did_not_match
+Line_39_did_not_match
+Line_40_did_not_match
+Line_41_did_not_match
+Line_42_did_not_match
+Line_43_did_not_match
+Line_44_did_not_match
+Line_45_did_not_match
+Line_46_did_not_match
+Line_47_did_not_match
+Line_48_did_not_match
+Line_49_did_not_match
+Line_50_did_not_match
+Line_51_did_not_match
+Line_52_did_not_match
+Line_53_did_not_match
+Line_54_did_not_match
+Line_55_did_not_match
+Line_56_did_not_match
+Line_57_did_not_match
+Line_58_did_not_match
+Line_59_did_not_match
+Line_60_did_not_match
+Line_61_did_not_match
+Line_62_did_not_match
+Line_63_did_not_match
+Line_64_did_not_match
+Line_65_did_not_match
+Line_66_did_not_match
+Line_67_did_not_match
+Line_68_did_not_match
+Line_69_did_not_match
+Line_70_did_not_match
+Line_71_did_not_match
+Line_72_did_not_match
+Line_73_did_not_match
+Line_74_did_not_match
+Line_75_did_not_match
+Line_76_did_not_match
+Line_77_did_not_match
+Line_78_did_not_match
+Line_79_did_not_match
+Line_80_did_not_match
+Line_81_did_not_match
+Line_82_did_not_match
+Line_83_did_not_match
+Line_84_did_not_match
+Line_85_did_not_match
+Line_86_did_not_match
+Line_87_did_not_match
+Line_88_did_not_match
+Line_89_did_not_match
+Line_90_did_not_match
+Line_91_did_not_match
+Line_92_did_not_match
+Line_93_did_not_match
+Line_94_did_not_match
+Line_95_did_not_match
+Line_96_did_not_match
+Line_97_did_not_match
+Line_98_did_not_match
+Line_99_did_not_match
+Line_100_did_not_match
+Line_101_did_not_match
+Line_102_did_not_match
+Line_103_did_not_match
+Line_104_did_not_match
+Line_105_did_not_match
+Line_106_did_not_match
+Line_107_did_not_match
+Line_108_did_not_match
+Line_109_did_not_match
+Line_110_did_not_match
+Line_111_did_not_match
+Line_112_did_not_match
+Line_113_did_not_match
+Line_114_did_not_match
+Line_115_did_not_match
+Line_116_did_not_match
+Line_117_did_not_match
+Line_118_did_not_match
+Line_119_did_not_match
+Line_120_did_not_match
+Line_121_did_not_match
+Line_122_did_not_match
+Line_123_did_not_match
+Line_124_did_not_match
+Line_125_did_not_match
+Line_126_did_not_match
+Line_127_did_not_match
+Line_128_did_not_match
+Line_129_did_not_match
+Line_130_did_not_match
+Line_131_did_not_match
+Line_132_did_not_match
+Line_133_did_not_match
+Line_134_did_not_match
+Line_135_did_not_match
+Line_136_did_not_match
+Line_137_did_not_match
+Line_138_did_not_match
+Line_139_did_not_match
+Line_140_did_not_match
+Line_141_did_not_match
+Line_142_did_not_match
+Line_143_did_not_match
+Line_144_did_not_match
+Line_145_did_not_match
+Line_146_did_not_match
+Line_147_did_not_match
+Line_148_did_not_match
+Line_149_did_not_match
+Line_150_did_not_match
+Line_151_did_not_match
+Line_152_did_not_match
+Line_153_did_not_match
+Line_154_did_not_match
+Line_155_did_not_match
+Line_156_did_not_match
+Line_157_did_not_match
+Line_158_did_not_match
+Line_159_did_not_match
+Line_160_did_not_match
+Line_161_did_not_match
+Line_162_did_not_match
+Line_163_did_not_match
+Line_164_did_not_match
+Line_165_did_not_match
+Line_166_did_not_match
+Line_167_did_not_match
+Line_168_did_not_match
+Line_169_did_not_match
+Line_170_did_not_match
+Line_171_did_not_match
+Line_172_did_not_match
+Line_173_did_not_match
+Line_174_did_not_match
+Line_175_did_not_match
+Line_176_did_not_match
+Line_177_did_not_match
+Line_178_did_not_match
+Line_179_did_not_match
+Line_180_did_not_match
+Line_181_did_not_match
+Line_182_did_not_match
+Line_183_did_not_match
+Line_184_did_not_match
+Line_185_did_not_match
+Line_186_did_not_match
+Line_187_did_not_match
+Line_188_did_not_match
+Line_189_did_not_match
+Line_190_did_not_match
+Line_191_did_not_match
+Line_192_did_not_match
+Line_193_did_not_match
+Line_194_did_not_match
+Line_195_did_not_match
+Line_196_did_not_match
+Line_197_did_not_match
+Line_198_did_not_match
+Line_199_did_not_match
+Line_200_did_not_match
+Line_201_did_not_match
+Line_202_did_not_match
+Line_203_did_not_match
+Line_204_did_not_match
+Line_205_did_not_match
+Line_206_did_not_match
+Line_207_did_not_match
+Line_208_did_not_match
+Line_209_did_not_match
+Line_210_did_not_match
+Line_211_did_not_match
+Line_212_did_not_match
+Line_213_did_not_match
+Line_214_did_not_match
+Line_215_did_not_match
+Line_216_did_not_match
+Line_217_did_not_match
+Line_218_did_not_match
+Line_219_did_not_match
+Line_220_did_not_match
+Line_221_did_not_match
+Line_222_did_not_match
+Line_223_did_not_match
+Line_224_did_not_match
+Line_225_did_not_match
+Line_226_did_not_match
+Line_227_did_not_match
+Line_228_did_not_match
+Line_229_did_not_match
+Line_230_did_not_match
+Line_231_did_not_match
+Line_232_did_not_match
+Line_233_did_not_match
+Line_234_did_not_match
+Line_235_did_not_match
+Line_236_did_not_match
+Line_237_did_not_match
+Line_238_did_not_match
+Line_239_did_not_match
+Line_240_did_not_match
+Line_241_did_not_match
+Line_242_did_not_match
+Line_243_did_not_match
+Line_244_did_not_match
+Line_245_did_not_match
+Line_246_did_not_match
+Line_247_did_not_match
+Line_248_did_not_match
+Line_249_did_not_match
+Line_250_did_not_match
+Line_251_did_not_match
+Line_252_did_not_match
+Line_253_did_not_match
+Line_254_did_not_match
+Line_255_did_not_match
+Line_256_did_not_match
+Line_257_did_not_match
+Line_258_did_not_match
+Line_259_did_not_match
+Line_260_did_not_match
+Line_261_did_not_match
+Line_262_did_not_match
+Line_263_did_not_match
+Line_264_did_not_match
+Line_265_did_not_match
+Line_266_did_not_match
+Line_267_did_not_match
+Line_268_did_not_match
+Line_269_did_not_match
+Line_270_did_not_match
+Line_271_did_not_match
+Line_272_did_not_match
+Line_273_did_not_match
+Line_274_did_not_match
+Line_275_did_not_match
+Line_276_did_not_match
+Line_277_did_not_match
+Line_278_did_not_match
+Line_279_did_not_match
+Line_280_did_not_match
+Line_281_did_not_match
+Line_282_did_not_match
+Line_283_did_not_match
+Line_284_did_not_match
+Line_285_did_not_match
+Line_286_did_not_match
+Line_287_did_not_match
+Line_288_did_not_match
+Line_289_did_not_match
+Line_290_did_not_match
+Line_291_did_not_match
+Line_292_did_not_match
+Line_293_did_not_match
+Line_294_did_not_match
+Line_295_did_not_match
+Line_296_did_not_match
+Line_297_did_not_match
+Line_298_did_not_match
+Line_299_did_not_match
+Line_300_did_not_match
+Line_301_did_not_match
+Line_302_did_not_match
+Line_303_did_not_match
+Line_304_did_not_match
+Line_305_did_not_match
+Line_306_did_not_match
+Line_307_did_not_match
+Line_308_did_not_match
+Line_309_did_not_match
+Line_310_did_not_match
+Line_311_did_not_match
+Line_312_did_not_match
+Line_313_did_not_match
+Line_314_did_not_match
+Line_315_did_not_match
+Line_316_did_not_match
+Line_317_did_not_match
+Line_318_did_not_match
+Line_319_did_not_match
+Line_320_did_not_match
+Line_321_did_not_match
+Line_322_did_not_match
+Line_323_did_not_match
+Line_324_did_not_match
+Line_325_did_not_match
+Line_326_did_not_match
+Line_327_did_not_match
+Line_328_did_not_match
+Line_329_did_not_match
+Line_330_did_not_match
+Line_331_did_not_match
+Line_332_did_not_match
+Line_333_did_not_match
+Line_334_did_not_match
+Line_335_did_not_match
+Line_336_did_not_match
+Line_337_did_not_match
+Line_338_did_not_match
+Line_339_did_not_match
+Line_340_did_not_match
+Line_341_did_not_match
+Line_342_did_not_match
+Line_343_did_not_match
+Line_344_did_not_match
+Line_345_did_not_match
+Line_346_did_not_match
+Line_347_did_not_match
+Line_348_did_not_match
+Line_349_did_not_match
+Line_350_did_not_match
+Line_351_did_not_match
+Line_352_did_not_match
+Line_353_did_not_match
+Line_354_did_not_match
+Line_355_did_not_match
+Line_356_did_not_match
+Line_357_did_not_match
+Line_358_did_not_match
+Line_359_did_not_match
+Line_360_did_not_match
+Line_361_did_not_match
+Line_362_did_not_match
+Line_363_did_not_match
+Line_364_did_not_match
+Line_365_did_not_match
+Line_366_did_not_match
+Line_367_did_not_match
+Line_368_did_not_match
+Line_369_did_not_match
+Line_370_did_not_match
+Line_371_did_not_match
+Line_372_did_not_match
+Line_373_did_not_match
+Line_374_did_not_match
+Line_375_did_not_match
+Line_376_did_not_match
+Line_377_did_not_match
+Line_378_did_not_match
+Line_379_did_not_match
+Line_380_did_not_match
+Line_381_did_not_match
+Line_382_did_not_match
+Line_383_did_not_match
+Line_384_did_not_match
+Line_385_did_not_match
+Line_386_did_not_match
+Line_387_did_not_match
+Line_388_did_not_match
+Line_389_did_not_match
+Line_390_did_not_match
+Line_391_did_not_match
+Line_392_did_not_match
+Line_393_did_not_match
+Line_394_did_not_match
+Line_395_did_not_match
+Line_396_did_not_match
+Line_397_did_not_match
+Line_398_did_not_match
+Line_399_did_not_match
+Line_400_did_not_match
+Line_401_did_not_match
+Line_402_did_not_match
+Line_403_did_not_match
+Line_404_did_not_match
+Line_405_did_not_match
+Line_406_did_not_match
+Line_407_did_not_match
+Line_408_did_not_match
+Line_409_did_not_match
+Line_410_did_not_match
+Line_411_did_not_match
+Line_412_did_not_match
+Line_413_did_not_match
+Line_414_did_not_match
+Line_415_did_not_match
+Line_416_did_not_match
+Line_417_did_not_match
+Line_418_did_not_match
+Line_419_did_not_match
+Line_420_did_not_match
+Line_421_did_not_match
+Line_422_did_not_match
+Line_423_did_not_match
+Line_424_did_not_match
+Line_425_did_not_match
+Line_426_did_not_match
+Line_427_did_not_match
+Line_428_did_not_match
+Line_429_did_not_match
+Line_430_did_not_match
+Line_431_did_not_match
+Line_432_did_not_match
+Line_433_did_not_match
+Line_434_did_not_match
+Line_435_did_not_match
+Line_436_did_not_match
+Line_437_did_not_match
+Line_438_did_not_match
+Line_439_did_not_match
+Line_440_did_not_match
+Line_441_did_not_match
+Line_442_did_not_match
+Line_443_did_not_match
+Line_444_did_not_match
+Line_445_did_not_match
+Line_446_did_not_match
+Line_447_did_not_match
+Line_448_did_not_match
+Line_449_did_not_match
+Line_450_did_not_match
+Line_451_did_not_match
+Line_452_did_not_match
+Line_453_did_not_match
+Line_454_did_not_match
+Line_455_did_not_match
+Line_456_did_not_match
+Line_457_did_not_match
+Line_458_did_not_match
+Line_459_did_not_match
+Line_460_did_not_match
+Line_461_did_not_match
+Line_462_did_not_match
+Line_463_did_not_match
+Line_464_did_not_match
+Line_465_did_not_match
+Line_466_did_not_match
+Line_467_did_not_match
+Line_468_did_not_match
+Line_469_did_not_match
+Line_470_did_not_match
+Line_471_did_not_match
+Line_472_did_not_match
+Line_473_did_not_match
+Line_474_did_not_match
+Line_475_did_not_match
+Line_476_did_not_match
+Line_477_did_not_match
+Line_478_did_not_match
+Line_479_did_not_match
+Line_480_did_not_match
+Line_481_did_not_match
+Line_482_did_not_match
+Line_483_did_not_match
+Line_484_did_not_match
+Line_485_did_not_match
+Line_486_did_not_match
+Line_487_did_not_match
+Line_488_did_not_match
+Line_489_did_not_match
+Line_490_did_not_match
+Line_491_did_not_match
+Line_492_did_not_match
+Line_493_did_not_match
+Line_494_did_not_match
+Line_495_did_not_match
+Line_496_did_not_match
+Line_497_did_not_match
+Line_498_did_not_match
+Line_499_did_not_match
+Line_500_did_not_match
+Line_501_did_not_match
+Line_502_did_not_match
+Line_503_did_not_match
+Line_504_did_not_match
+Line_505_did_not_match
+Line_506_did_not_match
+Line_507_did_not_match
+Line_508_did_not_match
+Line_509_did_not_match
+Line_510_did_not_match
+Line_511_did_not_match
+Line_512_did_not_match
+Line_513_did_not_match
+Line_514_did_not_match
+Line_515_did_not_match
+Line_516_did_not_match
+Line_517_did_not_match
+Line_518_did_not_match
+Line_519_did_not_match
+Line_520_did_not_match
+Line_521_did_not_match
+Line_522_did_not_match
+Line_523_did_not_match
+Line_524_did_not_match
+Line_525_did_not_match
+Line_526_did_not_match
+Line_527_did_not_match
+Line_528_did_not_match
+Line_529_did_not_match
+Line_530_did_not_match
+Line_531_did_not_match
+Line_532_did_not_match
+Line_533_did_not_match
+Line_534_did_not_match
+Line_535_did_not_match
+Line_536_did_not_match
+Line_537_did_not_match
+Line_538_did_not_match
+Line_539_did_not_match
+Line_540_did_not_match
+Line_541_did_not_match
+Line_542_did_not_match
+Line_543_did_not_match
+Line_544_did_not_match
+Line_545_did_not_match
+Line_546_did_not_match
+Line_547_did_not_match
+Line_548_did_not_match
+Line_549_did_not_match
+Line_550_did_not_match
+Line_551_did_not_match
+Line_552_did_not_match
+Line_553_did_not_match
+Line_554_did_not_match
+Line_555_did_not_match
+Line_556_did_not_match
+Line_557_did_not_match
+Line_558_did_not_match
+Line_559_did_not_match
+Line_560_did_not_match
+Line_561_did_not_match
+Line_562_did_not_match
+Line_563_did_not_match
+Line_564_did_not_match
+Line_565_did_not_match
+Line_566_did_not_match
+Line_567_did_not_match
+Line_568_did_not_match
+Line_569_did_not_match
+Line_570_did_not_match
+Line_571_did_not_match
+Line_572_did_not_match
+Line_573_did_not_match
+Line_574_did_not_match
+Line_575_did_not_match
+Line_576_did_not_match
+Line_577_did_not_match
+Line_578_did_not_match
+Line_579_did_not_match
+Line_580_did_not_match
+Line_581_did_not_match
+Line_582_did_not_match
+Line_583_did_not_match
+Line_584_did_not_match
+Line_585_did_not_match
+Line_586_did_not_match
+Line_587_did_not_match
+Line_588_did_not_match
+Line_589_did_not_match
+Line_590_did_not_match
+Line_591_did_not_match
+Line_592_did_not_match
+Line_593_did_not_match
+Line_594_did_not_match
+Line_595_did_not_match
+Line_596_did_not_match
+Line_597_did_not_match
+Line_598_did_not_match
+Line_599_did_not_match
+Line_600_did_not_match
+Line_601_did_not_match
+Line_602_did_not_match
+Line_603_did_not_match
+Line_604_did_not_match
+Line_605_did_not_match
+Line_606_did_not_match
+Line_607_did_not_match
+Line_608_did_not_match
+Line_609_did_not_match
+Line_610_did_not_match
+Line_611_did_not_match
+Line_612_did_not_match
+Line_613_did_not_match
+Line_614_did_not_match
+Line_615_did_not_match
+Line_616_did_not_match
+Line_617_did_not_match
+Line_618_did_not_match
+Line_619_did_not_match
+Line_620_did_not_match
+Line_621_did_not_match
+Line_622_did_not_match
+Line_623_did_not_match
+Line_624_did_not_match
+Line_625_did_not_match
+Line_626_did_not_match
+Line_627_did_not_match
+Line_628_did_not_match
+Line_629_did_not_match
+Line_630_did_not_match
+Line_631_did_not_match
+Line_632_did_not_match
+Line_633_did_not_match
+Line_634_did_not_match
+Line_635_did_not_match
+Line_636_did_not_match
+Line_637_did_not_match
+Line_638_did_not_match
+Line_639_did_not_match
+Line_640_did_not_match
+Line_641_did_not_match
+Line_642_did_not_match
+Line_643_did_not_match
+Line_644_did_not_match
+Line_645_did_not_match
+Line_646_did_not_match
+Line_647_did_not_match
+Line_648_did_not_match
+Line_649_did_not_match
+Line_650_did_not_match
+Line_651_did_not_match
+Line_652_did_not_match
+Line_653_did_not_match
+Line_654_did_not_match
+Line_655_did_not_match
+Line_656_did_not_match
+Line_657_did_not_match
+Line_658_did_not_match
+Line_659_did_not_match
+Line_660_did_not_match
+Line_661_did_not_match
+Line_662_did_not_match
+Line_663_did_not_match
+Line_664_did_not_match
+Line_665_did_not_match
+Line_666_did_not_match
+Line_667_did_not_match
+Line_668_did_not_match
+Line_669_did_not_match
+Line_670_did_not_match
+Line_671_did_not_match
+Line_672_did_not_match
+Line_673_did_not_match
+Line_674_did_not_match
+Line_675_did_not_match
+Line_676_did_not_match
+Line_677_did_not_match
+Line_678_did_not_match
+Line_679_did_not_match
+Line_680_did_not_match
+Line_681_did_not_match
+Line_682_did_not_match
+Line_683_did_not_match
+Line_684_did_not_match
+Line_685_did_not_match
+Line_686_did_not_match
+Line_687_did_not_match
+Line_688_did_not_match
+Line_689_did_not_match
+Line_690_did_not_match
+Line_691_did_not_match
+Line_692_did_not_match
+Line_693_did_not_match
+Line_694_did_not_match
+Line_695_did_not_match
+Line_696_did_not_match
+Line_697_did_not_match
+Line_698_did_not_match
+Line_699_did_not_match
+Line_700_did_not_match
+Line_701_did_not_match
+Line_702_did_not_match
+Line_703_did_not_match
+Line_704_did_not_match
+Line_705_did_not_match
+Line_706_did_not_match
+Line_707_did_not_match
+Line_708_did_not_match
+Line_709_did_not_match
+Line_710_did_not_match
+Line_711_did_not_match
+Line_712_did_not_match
+Line_713_did_not_match
+Line_714_did_not_match
+Line_715_did_not_match
+Line_716_did_not_match
+Line_717_did_not_match
+Line_718_did_not_match
+Line_719_did_not_match
+Line_720_did_not_match
+Line_721_did_not_match
+Line_722_did_not_match
+Line_723_did_not_match
+Line_724_did_not_match
+Line_725_did_not_match
+Line_726_did_not_match
+Line_727_did_not_match
+Line_728_did_not_match
+Line_729_did_not_match
+Line_730_did_not_match
+Line_731_did_not_match
+Line_732_did_not_match
+Line_733_did_not_match
+Line_734_did_not_match
+Line_735_did_not_match
+Line_736_did_not_match
+Line_737_did_not_match
+Line_738_did_not_match
+Line_739_did_not_match
+Line_740_did_not_match
+Line_741_did_not_match
+Line_742_did_not_match
+Line_743_did_not_match
+Line_744_did_not_match
+Line_745_did_not_match
+Line_746_did_not_match
+Line_747_did_not_match
+Line_748_did_not_match
+Line_749_did_not_match
+Line_750_did_not_match
+Line_751_did_not_match
+Line_752_did_not_match
+Line_753_did_not_match
+Line_754_did_not_match
+Line_755_did_not_match
+Line_756_did_not_match
+Line_757_did_not_match
+Line_758_did_not_match
+Line_759_did_not_match
+Line_760_did_not_match
+Line_761_did_not_match
+Line_762_did_not_match
+Line_763_did_not_match
+Line_764_did_not_match
+Line_765_did_not_match
+Line_766_did_not_match
+Line_767_did_not_match
+Line_768_did_not_match
+Line_769_did_not_match
+Line_770_did_not_match
+Line_771_did_not_match
+Line_772_did_not_match
+Line_773_did_not_match
+Line_774_did_not_match
+Line_775_did_not_match
+Line_776_did_not_match
+Line_777_did_not_match
+Line_778_did_not_match
+Line_779_did_not_match
+Line_780_did_not_match
+Line_781_did_not_match
+Line_782_did_not_match
+Line_783_did_not_match
+Line_784_did_not_match
+Line_785_did_not_match
+Line_786_did_not_match
+Line_787_did_not_match
+Line_788_did_not_match
+Line_789_did_not_match
+Line_790_did_not_match
+Line_791_did_not_match
+Line_792_did_not_match
+Line_793_did_not_match
+Line_794_did_not_match
+Line_795_did_not_match
+Line_796_did_not_match
+Line_797_did_not_match
+Line_798_did_not_match
+Line_799_did_not_match
+Line_800_did_not_match
+Line_801_did_not_match
+Line_802_did_not_match
+Line_803_did_not_match
+Line_804_did_not_match
+Line_805_did_not_match
+Line_806_did_not_match
+Line_807_did_not_match
+Line_808_did_not_match
+Line_809_did_not_match
+Line_810_did_not_match
+Line_811_did_not_match
+Line_812_did_not_match
+Line_813_did_not_match
+Line_814_did_not_match
+Line_815_did_not_match
+Line_816_did_not_match
+Line_817_did_not_match
+Line_818_did_not_match
+Line_819_did_not_match
+Line_820_did_not_match
+Line_821_did_not_match
+Line_822_did_not_match
+Line_823_did_not_match
+Line_824_did_not_match
+Line_825_did_not_match
+Line_826_did_not_match
+Line_827_did_not_match
+Line_828_did_not_match
+Line_829_did_not_match
+Line_830_did_not_match
+Line_831_did_not_match
+Line_832_did_not_match
+Line_833_did_not_match
+Line_834_did_not_match
+Line_835_did_not_match
+Line_836_did_not_match
+Line_837_did_not_match
+Line_838_did_not_match
+Line_839_did_not_match
+Line_840_did_not_match
+Line_841_did_not_match
+Line_842_did_not_match
+Line_843_did_not_match
+Line_844_did_not_match
+Line_845_did_not_match
+Line_846_did_not_match
+Line_847_did_not_match
+Line_848_did_not_match
+Line_849_did_not_match
+Line_850_did_not_match
+Line_851_did_not_match
+Line_852_did_not_match
+Line_853_did_not_match
+Line_854_did_not_match
+Line_855_did_not_match
+Line_856_did_not_match
+Line_857_did_not_match
+Line_858_did_not_match
+Line_859_did_not_match
+Line_860_did_not_match
+Line_861_did_not_match
+Line_862_did_not_match
+Line_863_did_not_match
+Line_864_did_not_match
+Line_865_did_not_match
+Line_866_did_not_match
+Line_867_did_not_match
+Line_868_did_not_match
+Line_869_did_not_match
+Line_870_did_not_match
+Line_871_did_not_match
+Line_872_did_not_match
+Line_873_did_not_match
+Your file did not match the expected ouput
+Your output did not match what we expected. Here is what you printed
+Age  27 month  3 you have $21435.000000000000000000000
+Age  27 month  3 you have $22515.381249999998544808477
+Age  27 month  3 you have $23599.813929687497875420377
+Age  27 month  3 you have $24688.313231923824787372723
+Age  27 month  3 you have $25780.894406543538934784010
+Age  27 month  3 you have $26877.572760568076773779467
+Age  27 month  3 you have $27978.363658420203137211502
+Age  27 month  3 you have $29083.282522139277716632932
+Age  27 month  3 you have $30192.344831597296433756128
+Age  27 month  3 you have $31305.566124715784098953009
+Age  27 month  3 you have $32422.961997683465597219765
+Age  27 month  3 you have $33544.548105174777447246015
+Age  27 month  3 you have $34670.340160569183353800327
+Age  27 month  3 you have $35800.353936171311943326145
+Age  27 month  3 you have $36934.605263431949424557388
+Age  27 month  3 you have $38073.110033169818052556366
+Age  27 month  3 you have $39215.884195794198603834957
+Age  27 month  3 you have $40362.943761528425966389477
+Age  27 month  3 you have $41514.304800634155981242657
+Age  27 month  3 you have $42669.983443636527226772159
+Age  27 month  3 you have $43829.995881550159538164735
+Age  27 month  3 you have $44994.358366105967434123158
+Age  27 month  3 you have $46163.087209978861210402101
+Age  27 month  3 you have $47336.198787016277492512017
+Age  27 month  3 you have $48513.709532467582903336734
+Age  27 month  3 you have $49695.635943214329017791897
+Age  27 month  3 you have $50881.994578001380432397127
+Age  27 month  3 you have $52072.802057668879569973797
+Age  27 month  3 you have $53268.075065385135530959815
+Age  27 month  3 you have $54467.830346880327851977199
+Age  27 month  3 you have $55672.084710681127035059035
+Age  27 month  3 you have $56880.855028346173639874905
+Age  27 month  3 you have $58094.158234702466870658100
+Age  27 month  3 you have $59312.011328082597174216062
+Age  27 month  3 you have $60534.431370562902884557843
+Age  27 month  3 you have $61761.435488202507258392870
+Age  27 month  3 you have $62993.040871283265005331486
+Age  27 month  3 you have $64229.264774550574657041579
+Age  27 month  3 you have $65470.124517455136810895056
+Age  27 month  3 you have $66715.637484395585488528013
+Age  27 month  3 you have $67965.821124962065368890762
+Age  27 month  3 you have $69220.692954180674860253930
+Age  27 month  3 you have $70480.270552758840494789183
+Age  27 month  3 you have $71744.571567331673577427864
+Age  27 month  3 you have $73013.613710709163569845259
+Age  27 month  3 you have $74287.414762124317348934710
+Age  27 month  3 you have $75565.992567482273443602026
+Age  27 month  3 you have $76849.365039610333042219281
+Age  27 month  3 you have $78137.550158508864114992321
+Age  27 month  3 you have $79430.565971603267826139927
+Age  27 month  3 you have $80728.430593996774405241013
+Age  27 month  3 you have $82031.162208724257652647793
+Age  27 month  3 you have $83338.779067006966215558350
+Age  27 month  3 you have $84651.299488508229842409492
+Age  27 month  3 you have $85968.741861590126063674688
+Age  27 month  3 you have $87291.124643571078195236623
+Age  27 month  3 you have $88618.466360984457423910499
+Age  27 month  3 you have $89950.785609838145319372416
+Age  27 month  3 you have $91288.101055875027668662369
+Age  27 month  3 you have $92630.431434834550600498915
+Age  27 month  3 you have $93977.795552715178928337991
+Age  27 month  3 you have $95330.212286037858575582504
+Age  27 month  3 you have $96687.700582110497634857893
+Age  27 month  3 you have $98050.279459293407853692770
+Age  27 month  3 you have $99417.968007265750202350318
+Age  27 month  3 you have $100790.785387292984523810446
+Age  27 month  3 you have $102168.750832495323265902698
+Age  27 month  3 you have $103551.883648117174743674695
+Age  27 month  3 you have $104940.203211797605035826564
+Age  27 month  3 you have $106333.728973841833067126572
+Age  27 month  3 you have $107732.480457493729772977531
+Age  27 month  3 you have $109136.477259209321346133947
+Age  27 month  3 you have $110545.739048931354773230851
+Age  27 month  3 you have $111960.285570364838349632919
+Age  27 month  3 you have $113380.136641253702691756189
+Age  27 month  3 you have $114805.312153658393071964383
+Age  27 month  3 you have $116235.832074234596802853048
+Age  27 month  3 you have $117671.716444512960151769221
+Age  27 month  3 you have $119112.985381179867545142770
+Age  27 month  3 you have $120559.659076359283062629402
+Age  27 month  3 you have $122011.757797895625117234886
+Age  27 month  3 you have $123469.301889637717977166176
+Age  27 month  3 you have $124932.311771723849233239889
+Age  27 month  3 you have $126400.807940867802244611084
+Age  27 month  3 you have $127874.810970646052737720311
+Age  27 month  3 you have $129354.341511785969487391412
+Age  27 month  3 you have $130839.420292455150047317147
+Age  27 month  3 you have $132330.068118551833322271705
+Age  27 month  3 you have $133826.305873996403533965349
+Age  27 month  3 you have $135328.154521023883717134595
+Age  27 month  3 you have $136835.635100477724336087704
+Age  27 month  3 you have $138348.768732104508671909571
+Age  27 month  3 you have $139867.576614849880570545793
+Age  27 month  3 you have $141392.080027155549032613635
+Age  27 month  3 you have $142922.300327257369644939899
+Age  27 month  3 you have $144458.258953484561061486602
+Age  27 month  3 you have $145999.977424560114741325378
+Age  27 month  3 you have $147547.477339902194216847420
+Age  27 month  3 you have $149100.780379926814930513501
+Age  27 month  3 you have $150659.908306351542705669999
+Age  27 month  3 you have $152224.882962500356370583177
+Age  27 month  3 you have $153795.726273609732743352652
+Age  27 month  3 you have $155372.460247135750250890851
+Age  27 month  3 you have $156955.106973062502220273018
+Age  27 month  3 you have $158543.688624211470596492290
+Age  27 month  3 you have $160138.227456552238436415792
+Age  27 month  3 you have $161738.745809514308348298073
+Age  27 month  3 you have $163345.266106299968669191003
+Age  27 month  3 you have $164957.810854198585730046034
+Age  27 month  3 you have $166576.402644901827443391085
+Age  27 month  3 you have $168201.064154820196563377976
+Age  27 month  3 you have $169831.818145400757202878594
+Age  27 month  3 you have $171468.687463445996399968863
+Age  27 month  3 you have $173111.695041433908045291901
+Age  27 month  3 you have $174760.863897839270066469908
+Age  27 month  3 you have $176416.217137456143973395228
+Age  27 month  3 you have $178077.777951721596764400601
+Age  27 month  3 you have $179745.569619040528777986765
+Age  27 month  3 you have $181419.615505111927632242441
+Age  27 month  3 you have $183099.939063256082590669394
+Age  27 month  3 you have $184786.563834743283223360777
+Age  27 month  3 you have $186479.513449123565806075931
+Age  27 month  3 you have $188178.811624557769391685724
+Age  27 month  3 you have $189884.482168149843346327543
+Age  27 month  3 you have $191596.548976280377246439457
+Age  27 month  3 you have $193315.036034941411344334483
+Age  27 month  3 you have $195039.967420072440290823579
+Age  27 month  3 you have $196771.367297897697426378727
+Age  27 month  3 you have $198509.259925264806952327490
+Age  27 month  3 you have $200253.669649984542047604918
+Age  27 month  3 you have $202004.620911171979969367385
+Age  27 month  3 you have $203762.138239588850410655141
+Age  27 month  3 you have $205526.246257987280841916800
+Age  27 month  3 you have $207296.969681454706005752087
+Age  27 month  3 you have $209074.333317760145291686058
+Age  27 month  3 you have $210858.362067701731575652957
+Age  27 month  3 you have $212649.080925455607939511538
+Age  27 month  3 you have $214446.514978926046751439571
+Age  27 month  3 you have $216250.689410096994834020734
+Age  27 month  3 you have $218061.629495384840993210673
+Age  27 month  3 you have $219879.360605992522323504090
+Age  27 month  3 you have $221703.908208264969289302826
+Age  27 month  3 you have $223535.297864045947790145874
+Age  27 month  3 you have $225373.555231036094482988119
+Age  27 month  3 you have $227218.706063152465503662825
+Age  27 month  3 you have $229070.776210889278445392847
+Age  27 month  3 you have $230929.791621680080424994230
+Age  27 month  3 you have $232795.778340261371340602636
+Age  27 month  3 you have $234668.762509037333074957132
+Age  27 month  3 you have $236548.770368446217617020011
+Age  27 month  3 you have $238435.828257327870232984424
+Age  27 month  3 you have $240329.962613292824244126678
+Age  27 month  3 you have $242231.199973092647269368172
+Age  27 month  3 you have $244139.566972991713555529714
+Age  27 month  3 you have $246055.090349140402395278215
+Age  27 month  3 you have $247977.796937949664425104856
+Age  27 month  3 you have $249907.713676466955803334713
+Age  27 month  3 you have $251844.867602753685787320137
+Age  27 month  3 you have $253789.285856264003086835146
+Age  27 month  3 you have $255740.995678224979201331735
+Age  27 month  3 you have $257700.024412018305156379938
+Age  27 month  3 you have $259666.399503563356120139360
+Age  27 month  3 you have $261640.148501701711211353540
+Age  27 month  3 you have $263621.299058583099395036697
+Age  27 month  3 you have $265609.878930052742362022400
+Age  27 month  3 you have $267605.915976040414534509182
+Age  27 month  3 you have $269609.438160950550809502602
+Age  27 month  3 you have $271620.473554054100532084703
+Age  27 month  3 you have $273639.050329881778452545404
+Age  27 month  3 you have $275665.196768618829082697630
+Age  27 month  3 you have $277698.941256501129828393459
+Age  27 month  3 you have $279740.312286212982144206762
+Age  27 month  3 you have $281789.338457286241464316845
+Age  27 month  3 you have $283846.048476501018740236759
+Age  27 month  3 you have $285910.471158287895377725363
+Age  27 month  3 you have $287982.635425131476949900389
+Age  27 month  3 you have $290062.570307975693140178919
+Age  27 month  3 you have $292150.304946630552876740694
+Age  27 month  3 you have $294245.868590180412866175175
+Age  27 month  3 you have $296349.290597393584903329611
+Age  27 month  3 you have $298460.600437133805826306343
+Age  27 month  3 you have $300579.827688773046247661114
+Age  27 month  3 you have $302707.002042605949100106955
+Age  27 month  3 you have $304842.153300265723373740911
+Age  27 month  3 you have $306985.311375141667667776346
+Age  27 month  3 you have $309136.506292798439972102642
+Age  27 month  3 you have $311295.768191396433394402266
+Age  27 month  3 you have $313463.127322114130947738886
+Age  27 month  3 you have $315638.614049572031944990158
+Age  27 month  3 you have $317822.258852257917169481516
+Age  27 month  3 you have $320014.092322953860275447369
+Age  27 month  3 you have $322214.145169164927210658789
+Age  27 month  3 you have $324422.448213549272622913122
+Age  27 month  3 you have $326639.032394350040704011917
+Age  27 month  3 you have $328863.928765828837640583515
+Age  27 month  3 you have $331097.168498700659256428480
+Age  27 month  3 you have $333338.782880570739507675171
+Age  27 month  3 you have $335588.803316372854169458151
+Age  27 month  3 you have $337847.261328809254337102175
+Age  27 month  3 you have $340114.188558792287949472666
+Age  27 month  3 you have $342389.616765887709334492683
+Age  27 month  3 you have $344673.577828759734984487295
+Age  27 month  3 you have $346966.103745617554523050785
+Age  27 month  3 you have $349267.226634663587901741266
+Age  27 month  3 you have $351576.978734543547034263611
+Age  27 month  3 you have $353895.392404798069037497044
+Age  27 month  3 you have $356222.500126316037494689226
+Age  27 month  3 you have $358558.334501789708156138659
+Age  27 month  3 you have $360902.928256171406246721745
+Age  27 month  3 you have $363256.314237132028210908175
+Age  27 month  3 you have $365618.525415521231479942799
+Age  27 month  3 you have $367989.594885829428676515818
+Age  27 month  3 you have $370369.555866651237010955811
+Age  27 month  3 you have $372758.441701151139568537474
+Age  27 month  3 you have $375156.285857530427165329456
+Age  27 month  3 you have $377563.121929496119264513254
+Age  27 month  3 you have $379978.983636731689330190420
+Age  27 month  3 you have $382403.904825369419995695353
+Age  27 month  3 you have $384837.919468464504461735487
+Age  27 month  3 you have $387281.061666471243370324373
+Age  27 month  3 you have $389733.365647720464039593935
+Age  27 month  3 you have $392194.865768899384420365095
+Age  27 month  3 you have $394665.596515532699413597584
+Age  27 month  3 you have $397145.592502465937286615372
+Age  27 month  3 you have $399634.888474350154865533113
+Age  27 month  3 you have $402133.519306128961034119129
+Age  27 month  3 you have $404641.520003526937216520309
+Age  27 month  3 you have $407158.925703540153335779905
+Age  27 month  3 you have $409685.771674928371794521809
+Age  27 month  3 you have $412222.093318709346931427717
+Age  27 month  3 you have $414767.926168654463253915310
+Age  27 month  3 you have $417323.305891786876600235701
+Age  27 month  3 you have $419888.268288881052285432816
+Age  27 month  3 you have $422462.849294964340515434742
+Age  27 month  3 you have $425047.084979820414446294308
+Age  27 month  3 you have $427641.011548494687303900719
+Age  27 month  3 you have $430244.665341801533941179514
+Age  27 month  3 you have $432858.082836833258625119925
+Age  27 month  3 you have $435481.300647471332922577858
+Age  27 month  3 you have $438114.355524899321608245373
+Age  27 month  3 you have $440757.284358117671217769384
+Age  27 month  3 you have $443410.124174460594076663256
+Age  27 month  3 you have $446072.912140114756766706705
+Age  27 month  3 you have $448745.685560640180483460426
+Age  27 month  3 you have $451428.481881492538377642632
+Age  27 month  3 you have $454121.338688548072241246700
+Age  27 month  3 you have $456824.293708630080800503492
+Age  27 month  3 you have $459537.384810037387069314718
+Age  27 month  3 you have $462260.650003075017593801022
+Age  27 month  3 you have $464994.127440586511511355639
+Age  27 month  3 you have $467737.855418488674331456423
+Age  27 month  3 you have $470491.872376307961530983448
+Age  27 month  3 you have $473256.216897719074040651321
+Age  27 month  3 you have $476030.927711085474584251642
+Age  27 month  3 you have $478816.043690001999493688345
+Age  27 month  3 you have $481611.603853839449584484100
+Age  27 month  3 you have $484417.647368291334714740515
+Age  27 month  3 you have $487234.213545922364573925734
+Age  27 month  3 you have $490061.341846719558816403151
+Age  27 month  3 you have $492899.071878644695971161127
+Age  27 month  3 you have $495747.443398189556319266558
+Age  27 month  3 you have $498606.496310932736378163099
+Age  27 month  3 you have $501476.270672098675277084112
+Age  27 month  3 you have $504356.806687119009438902140
+Age  27 month  3 you have $507248.144712195673491805792
+Age  27 month  3 you have $510150.325254866387695074081
+Age  27 month  3 you have $513063.388974572124425321817
+Age  27 month  3 you have $515987.376683226728346198797
+Age  27 month  3 you have $518922.329345788806676864624
+Age  27 month  3 you have $521868.288080835482105612755
+Age  27 month  3 you have $524825.294161138590425252914
+Age  27 month  3 you have $527793.389014242799021303654
+Age  27 month  3 you have $530772.614223046111874282360
+Age  27 month  3 you have $533763.011526382528245449066
+Age  27 month  3 you have $536764.622819606447592377663
+Age  27 month  3 you have $539777.490155179984867572784
+Age  27 month  3 you have $542801.655743261915631592274
+Age  27 month  3 you have $545837.161952299065887928009
+Age  27 month  3 you have $548884.051309620146639645100
+Age  27 month  3 you have $551942.366502031218260526657
+Age  27 month  3 you have $555012.150376413832418620586
+Age  27 month  3 you have $558093.445940325385890901089
+Age  27 month  3 you have $561186.296362601569853723049
+Age  27 month  3 you have $564290.744973961263895034790
+Age  27 month  3 you have $567406.835267613525502383709
+Age  27 month  3 you have $570534.610899867024272680283
+Age  27 month  3 you have $573674.115690741455182433128
+Age  27 month  3 you have $576825.393624581745825707912
+Age  27 month  3 you have $579988.488850673893466591835
+Age  27 month  3 you have $583163.445683863828890025616
+Age  27 month  3 you have $586350.308605178259313106537
+Age  27 month  3 you have $589549.122262447606772184372
+Age  27 month  3 you have $592759.931470931740477681160
+Age  27 month  3 you have $595982.781213947688229382038
+Age  27 month  3 you have $599217.716643499908968806267
+Age  27 month  3 you have $602464.783080913010053336620
+Age  27 month  3 you have $605724.026017466443590819836
+Age  27 month  3 you have $608995.491115031880326569080
+Age  27 month  3 you have $612279.224206713144667446613
+Age  27 month  3 you have $615575.271297488245181739330
+Age  27 month  3 you have $618883.678564853733405470848
+Age  27 month  3 you have $622204.492359471856616437435
+Age  27 month  3 you have $625537.759205819806084036827
+Age  27 month  3 you have $628883.525802841526456177235
+Age  27 month  3 you have $632241.839024602086283266544
+Age  27 month  3 you have $635612.745920944260433316231
+Age  27 month  3 you have $638996.293718147790059447289
+Age  27 month  3 you have $642392.529819590738043189049
+Age  27 month  3 you have $645801.501806414104066789150
+Age  27 month  3 you have $649223.257438188069500029087
+Age  27 month  3 you have $652657.844653581269085407257
+Age  27 month  3 you have $656105.311571032158099114895
+Age  27 month  3 you have $659565.706489423522725701332
+Age  27 month  3 you have $663039.077888758853077888489
+Age  27 month  3 you have $666525.474430841626599431038
+Age  27 month  3 you have $670024.944959957269020378590
+Age  27 month  3 you have $673537.538503557094372808933
+Age  27 month  3 you have $677063.304272945388220250607
+Age  27 month  3 you have $680602.291663968935608863831
+Age  27 month  3 you have $684154.550257708760909736156
+Age  27 month  3 you have $687720.129821175127290189266
+Age  27 month  3 you have $691299.080308004515245556831
+Age  27 month  3 you have $694891.451859159511514008045
+Age  27 month  3 you have $698497.294803631259128451347
+Age  27 month  3 you have $702116.659659144817851483822
+Age  27 month  3 you have $705749.597132866503670811653
+Age  27 month  3 you have $709396.158122114720754325390
+Age  27 month  3 you have $713056.393715072539635002613
+Age  27 month  3 you have $716730.355191504000686109066
+Age  27 month  3 you have $720418.094023472047410905361
+Age  27 month  3 you have $724119.661876059952192008495
+Age  27 month  3 you have $727835.110608095070347189903
+Age  27 month  3 you have $731564.492272875388152897358
+Age  27 month  3 you have $735307.859118898632004857063
+Age  27 month  3 you have $739065.263590594404377043247
+Age  27 month  3 you have $742836.758329059113748371601
+Age  27 month  3 you have $746622.396172793000005185604
+Age  27 month  3 you have $750422.230158440885134041309
+Age  27 month  3 you have $754236.313521535019390285015
+Age  27 month  3 you have $758064.699697240721434354782
+Age  27 month  3 you have $761907.442321105278097093105
+Age  27 month  3 you have $765764.595229809405282139778
+Age  27 month  3 you have $769636.212461921153590083122
+Age  27 month  3 you have $773522.348258653306402266026
+Age  27 month  3 you have $777423.057064623222686350346
+Age  27 month  3 you have $781338.393528615473769605160
+Age  27 month  3 you have $785268.412504347739741206169
+Age  27 month  3 you have $789213.169051239034160971642
+Age  27 month  3 you have $793172.718435181071981787682
+Age  27 month  3 you have $797147.116129312897101044655
+Age  27 month  3 you have $801136.417814797721803188324
+Age  27 month  3 you have $805140.679381603142246603966
+Age  27 month  3 you have $809159.956929284031502902508
+Age  27 month  3 you have $813194.306767768808640539646
+Age  27 month  3 you have $817243.785418147919699549675
+Age  27 month  3 you have $821308.449613465927541255951
+Age  27 month  3 you have $825388.356299516395665705204
+Age  27 month  3 you have $829483.562635639565996825695
+Age  27 month  3 you have $833594.125995523179881274700
+Age  27 month  3 you have $837720.103968006325885653496
+Age  27 month  3 you have $841861.554357886314392089844
+Age  27 month  3 you have $846018.535186728346161544323
+Age  27 month  3 you have $850191.104693678556941449642
+Age  27 month  3 you have $854379.321336279739625751972
+Age  27 month  3 you have $858583.243791290675289928913
+Age  27 month  3 you have $862802.930955507908947765827
+Age  27 month  3 you have $867038.441946591017767786980
+Age  27 month  3 you have $871289.836103890673257410526
+Age  27 month  3 you have $875557.172989280195906758308
+Age  27 month  3 you have $879840.512387989903800189495
+Age  27 month  3 you have $884139.914309444837272167206
+Age  27 month  3 you have $888455.438988105161115527153
+Age  27 month  3 you have $892787.146884310524910688400
+Age  27 month  3 you have $897135.098685126635245978832
+Age  27 month  3 you have $901499.355305195786058902740
+Age  27 month  3 you have $905879.977887590182945132256
+Age  27 month  3 you have $910277.027804668527096509933
+Age  27 month  3 you have $914690.566658935975283384323
+Age  27 month  3 you have $919120.656283906893804669380
+Age  27 month  3 you have $923567.358744971454143524170
+Age  27 month  3 you have $928030.736340265022590756416
+Age  27 month  3 you have $932510.851601540925912559032
+Age  27 month  3 you have $937007.767295046593062579632
+Age  27 month  3 you have $941521.546422402956523001194
+Age  27 month  3 you have $946052.252221486880443990231
+Age  27 month  3 you have $950599.948167317430488765240
+Age  27 month  3 you have $955164.697972944821231067181
+Age  27 month  3 you have $959746.565590343321673572063
+Age  27 month  3 you have $964345.615211307071149349213
+Age  27 month  3 you have $968961.911268349387682974339
+Age  27 month  3 you have $973595.518435605568811297417
+Age  27 month  3 you have $978246.501629739068448543549
+Age  27 month  3 you have $982914.926010850467719137669
+Age  27 month  3 you have $987600.856983391102403402328
+Age  27 month  3 you have $992304.360197078785859048367
+Age  27 month  3 you have $997025.501547817722894251347
+Age  27 month  3 you have $1001764.347178621916100382805
+Age  27 month  3 you have $1006520.963480541715398430824
+Age  27 month  3 you have $1011295.417093593627214431763
+Age  27 month  3 you have $1016087.774907694547437131405
+Age  27 month  3 you have $1020898.104063598322682082653
+Age  27 month  3 you have $1025726.471953836735337972641
+Age  27 month  3 you have $1030572.946223663515411317348
+Age  27 month  3 you have $1035437.594772002194076776505
+Age  27 month  3 you have $1040320.485752397100441157818
+Age  27 month  3 you have $1045221.687573968549259006977
+Age  27 month  3 you have $1050141.268902370939031243324
+Age  27 month  3 you have $1055079.298660754691809415817
+Age  27 month  3 you have $1060035.846030732383951544762
+Age  27 month  3 you have $1065010.980453347554430365562
+Age  27 month  3 you have $1070004.771630047587677836418
+Age  27 month  3 you have $1075017.289523660205304622650
+Age  27 month  3 you have $1080048.604359373915940523148
+Age  27 month  3 you have $1085098.786625721491873264313
+Age  27 month  3 you have $1090167.907075567869469523430
+Age  27 month  3 you have $1095256.036727101076394319534
+Age  27 month  3 you have $1100363.246864827582612633705
+Age  27 month  3 you have $1105489.609040570678189396858
+Age  27 month  3 you have $1110635.195074472809210419655
+Age  27 month  3 you have $1115800.077056002104654908180
+Age  27 month  3 you have $1120984.327344961930066347122
+Age  27 month  3 you have $1126188.018572505563497543335
+Age  27 month  3 you have $1131411.223642152268439531326
+Age  27 month  3 you have $1136654.015730810351669788361
+Age  27 month  3 you have $1141916.468289800686761736870
+Age  27 month  3 you have $1147198.655045887455344200134
+Age  27 month  3 you have $1152500.650002309354022145271
+Age  27 month  3 you have $1157822.527439818019047379494
+Age  27 month  3 you have $1163164.361917717149481177330
+Age  27 month  3 you have $1168526.228274908382445573807
+Age  27 month  3 you have $1173908.201630939263850450516
+Age  27 month  3 you have $1179310.357387055177241563797
+Age  27 month  3 you have $1184732.771227256627753376961
+Age  27 month  3 you have $1190175.519119358854368329048
+Age  27 month  3 you have $1195638.677316056331619620323
+Age  27 month  3 you have $1201122.322355991462245583534
+Age  27 month  3 you have $1206626.531064826296642422676
+Age  27 month  3 you have $1212151.380556319374591112137
+Age  27 month  3 you have $1217696.948233405360952019691
+Age  27 month  3 you have $1223263.311789280502125620842
+Age  27 month  3 you have $1228850.549208490177989006042
+Age  27 month  3 you have $1234458.738768021808937191963
+Age  27 month  3 you have $1240087.959038401721045374870
+Age  27 month  3 you have $1245738.288884795736521482468
+Age  27 month  3 you have $1251409.807468113722279667854
+Age  27 month  3 you have $1257102.594246119027957320213
+Age  27 month  3 you have $1262816.728974541882053017616
+Age  27 month  3 you have $1268552.291708196280524134636
+Age  27 month  3 you have $1274309.362802101997658610344
+Age  27 month  3 you have $1280088.022912609856575727463
+Age  27 month  3 you have $1285888.352998532122001051903
+Age  27 month  3 you have $1291710.434322276618331670761
+Age  27 month  3 you have $1297554.348450985038653016090
+Age  27 month  3 you have $1303420.177257676143199205399
+Age  27 month  3 you have $1309308.002922392217442393303
+Age  27 month  3 you have $1315217.907933351118117570877
+Age  27 month  3 you have $1321149.975088101113215088844
+Age  27 month  3 you have $1327104.287494681309908628464
+Age  27 month  3 you have $1333080.928572786273434758186
+Age  27 month  3 you have $1339079.982054934138432145119
+Age  27 month  3 you have $1345101.531987640075385570526
+Age  27 month  3 you have $1351145.662732593715190887451
+Age  27 month  3 you have $1357212.458967840764671564102
+Age  27 month  3 you have $1363302.005688969977200031281
+Age  27 month  3 you have $1369414.388210303615778684616
+Age  27 month  3 you have $1375549.692166092107072472572
+Age  27 month  3 you have $1381708.003511714749038219452
+Age  27 month  3 you have $1387889.408524883678182959557
+Age  27 month  3 you have $1394093.993806851794943213463
+Age  27 month  3 you have $1400321.846283627441152930260
+Age  27 month  3 you have $1406573.053207190940156579018
+Age  27 month  3 you have $1412847.702156717889010906219
+Age  27 month  3 you have $1419145.881039805477485060692
+Age  27 month  3 you have $1425467.678093704627826809883
+Age  27 month  3 you have $1431813.181886555859819054604
+Age  27 month  3 you have $1438182.481318630278110504150
+Age  27 month  3 you have $1444575.665623574983328580856
+Age  27 month  3 you have $1450992.824369663372635841370
+Age  27 month  3 you have $1457434.047461049398407340050
+Age  27 month  3 you have $1463899.425139028113335371017
+Age  27 month  3 you have $1470389.047983299242332577705
+Age  27 month  3 you have $1476903.006913236575201153755
+Age  27 month  3 you have $1483441.393189161084592342377
+Age  27 month  3 you have $1490004.298413620330393314362
+Age  27 month  3 you have $1496591.814532671356573700905
+Age  27 month  3 you have $1503204.033837168710306286812
+Age  27 month  3 you have $1509841.048964058049023151398
+Age  27 month  3 you have $1516502.952897673239931464195
+Age  27 month  3 you have $1523189.838971039280295372009
+Age  27 month  3 you have$1529901.800867180572822690010
+Age  27 month  3 you have$1527176.719034569803625345230
+Age  27 month  3 you have$1524449.366300431778654456139
+Age  27 month  3 you have$1521719.740772348595783114433
+Age  27 month  3 you have$1518987.840556325390934944153
+Age  27 month  3 you have$1516253.663756788941100239754
+Age  27 month  3 you have$1513517.208476586034521460533
+Age  27 month  3 you have$1510778.472816983005031943321
+Age  27 month  3 you have$1508037.454877663636580109596
+Age  27 month  3 you have$1505294.152756728231906890869
+Age  27 month  3 you have$1502548.564550691982731223106
+Age  27 month  3 you have$1499800.688354484038427472115
+Age  27 month  3 you have$1497050.522261445876210927963
+Age  27 month  3 you have$1494298.064363330369815230370
+Age  27 month  3 you have$1491543.312750299694016575813
+Age  27 month  3 you have$1488786.265510924858972430229
+Age  27 month  3 you have$1486026.920732183847576379776
+Age  27 month  3 you have$1483265.276499460451304912567
+Age  27 month  3 you have$1480501.330896543106064200401
+Age  27 month  3 you have$1477735.082005623495206236839
+Age  27 month  3 you have$1474966.527907294686883687973
+Age  27 month  3 you have$1472195.666680550668388605118
+Age  27 month  3 you have$1469422.496402784250676631927
+Age  27 month  3 you have$1466647.015149786369875073433
+Age  27 month  3 you have$1463869.220995744457468390465
+Age  27 month  3 you have$1461089.112013240810483694077
+Age  27 month  3 you have$1458306.686273251660168170929
+Age  27 month  3 you have$1455521.941845146007835865021
+Age  27 month  3 you have$1452734.876796683529391884804
+Age  27 month  3 you have$1449945.489194013876840472221
+Age  27 month  3 you have$1447153.777101675514131784439
+Age  27 month  3 you have$1444359.738582593388855457306
+Age  27 month  3 you have$1441563.371698078699409961700
+Age  27 month  3 you have$1438764.674507827032357454300
+Age  27 month  3 you have$1435963.645069916732609272003
+Age  27 month  3 you have$1433160.281440808204934000969
+Age  27 month  3 you have$1430354.581675342051312327385
+Age  27 month  3 you have$1427546.543826738139614462852
+Age  27 month  3 you have$1424736.165946593508124351501
+Age  27 month  3 you have$1421923.446084882132709026337
+Age  27 month  3 you have$1419108.382289952831342816353
+Age  27 month  3 you have$1416290.972608527634292840958
+Age  27 month  3 you have$1413471.215085701318457722664
+Age  27 month  3 you have$1410649.107764939311891794205
+Age  27 month  3 you have$1407824.648688076529651880264
+Age  27 month  3 you have$1404997.835895316442474722862
+Age  27 month  3 you have$1402168.667425228981301188469
+Age  27 month  3 you have$1399337.141314749838784337044
+Age  27 month  3 you have$1396503.255599178606644272804
+Age  27 month  3 you have$1393667.008312177844345569611
+Age  27 month  3 you have$1390828.397485771216452121735
+Age  27 month  3 you have$1387987.421150342561304569244
+Age  27 month  3 you have$1385144.077334634494036436081
+Age  27 month  3 you have$1382298.364065746543928980827
+Age  27 month  3 you have$1379450.279369134455919265747
+Age  27 month  3 you have$1376599.821268608560785651207
+Age  27 month  3 you have$1373746.987786332378163933754
+Age  27 month  3 you have$1370891.776942820753902196884
+Age  27 month  3 you have$1368034.186756939627230167389
+Age  27 month  3 you have$1365174.215245903702452778816
+Age  27 month  3 you have$1362311.860425275051966309547
+Age  27 month  3 you have$1359447.120308962650597095490
+Age  27 month  3 you have$1356579.992909220047295093536
+Age  27 month  3 you have$1353710.476236644200980663300
+Age  27 month  3 you have$1350838.568300174549221992493
+Age  27 month  3 you have$1347964.267107091145589947701
+Age  27 month  3 you have$1345087.570663013495504856110
+Age  27 month  3 you have$1342208.476971899159252643585
+Age  27 month  3 you have$1339326.984036042355000972748
+Age  27 month  3 you have$1336443.089856072328984737396
+Age  27 month  3 you have$1333556.792430952191352844238
+Age  27 month  3 you have$1330668.089757977752014994621
+Age  27 month  3 you have$1327776.979832775890827178955
+Age  27 month  3 you have$1324883.460649303160607814789
+Age  27 month  3 you have$1321987.530199844157323241234
+Age  27 month  3 you have$1319089.186475010588765144348
+Age  27 month  3 you have$1316188.427463739644736051559
+Age  27 month  3 you have$1313285.251153292600065469742
+Age  27 month  3 you have$1310379.655529253650456666946
+Age  27 month  3 you have$1307471.638575527817010879517
+Age  27 month  3 you have$1304561.198274340713396668434
+Age  27 month  3 you have$1301648.332606235984712839127
+Age  27 month  3 you have$1298733.039550074376165866852
+Age  27 month  3 you have$1295815.317083032568916678429
+Age  27 month  3 you have$1292895.163180601550266146660
+Age  27 month  3 you have$1289972.575816585216671228409
+Age  27 month  3 you have$1287047.552963098976761102676
+Age  27 month  3 you have$1284120.092590568121522665024
+Age  27 month  3 you have$1281190.192667726892977952957
+Age  27 month  3 you have$1278257.851161616621538996696
+Age  27 month  3 you have$1275323.066037584561854600906
+Age  27 month  3 you have$1272385.835259282495826482773
+Age  27 month  3 you have$1269446.156788665102794766426
+Age  27 month  3 you have$1266504.028585988795384764671
+Age  27 month  3 you have$1263559.448609810322523117065
+Age  27 month  3 you have$1260612.414816985139623284340
+Age  27 month  3 you have$1257662.925162665778771042824
+Age  27 month  3 you have$1254710.977600301150232553482
+Age  27 month  3 you have$1251756.570081634679809212685
+Age  27 month  3 you have$1248799.700556702679023146629
+Age  27 month  3 you have$1245840.366973833180963993073
+Age  27 month  3 you have$1242878.567279644543305039406
+Age  27 month  3 you have$1239914.299419044051319360733
+Age  27 month  3 you have$1236947.561335226520895957947
+Age  27 month  3 you have$1233978.350969672435894608498
+Age  27 month  3 you have$1231006.666262147016823291779
+Age  27 month  3 you have$1228032.505150698591023683548
+Age  27 month  3 you have$1225055.865571657428517937660
+Age  27 month  3 you have$1222076.745459633646532893181
+Age  27 month  3 you have$1219095.142747516511008143425
+Age  27 month  3 you have$1216111.055366472573950886726
+Age  27 month  3 you have$1213124.481245944509282708168
+Age  27 month  3 you have$1210135.418313649250194430351
+Age  27 month  3 you have$1207143.864495577290654182434
+Age  27 month  3 you have$1204149.817715990124270319939
+Age  27 month  3 you have$1201153.275897420011460781097
+Age  27 month  3 you have$1198154.236960667651146650314
+Age  27 month  3 you have$1195152.698824801482260227203
+Age  27 month  3 you have$1192148.659407155355438590050
+Age  27 month  3 you have$1189142.116623327834531664848
+Age  27 month  3 you have$1186133.068387180566787719727
+Age  27 month  3 you have$1183121.512610836420208215714
+Age  27 month  3 you have$1180107.447204678785055875778
+Age  27 month  3 you have$1177090.870077349245548248291
+Age  27 month  3 you have$1174071.779135746881365776062
+Age  27 month  3 you have$1171050.172285026637837290764
+Age  27 month  3 you have$1168026.047428597463294863701
+Age  27 month  3 you have$1164999.402468121144920587540
+Age  27 month  3 you have$1161970.235303511144593358040
+Age  27 month  3 you have$1158938.543832930736243724823
+Age  27 month  3 you have$1155904.325952791376039385796
+Age  27 month  3 you have$1152867.579557752003893256187
+Age  27 month  3 you have$1149828.302540716715157032013
+Age  27 month  3 you have$1146786.492792833829298615456
+Age  27 month  3 you have$1143742.148203494492918252945
+Age  27 month  3 you have$1140695.266660330584272742271
+Age  27 month  3 you have$1137645.846049214014783501625
+Age  27 month  3 you have$1134593.884254254866391420364
+Age  27 month  3 you have$1131539.379157799994572997093
+Age  27 month  3 you have$1128482.328640431398525834084
+Age  27 month  3 you have$1125422.730580965057015419006
+Age  27 month  3 you have$1122360.582856449065729975700
+Age  27 month  3 you have$1119295.883342162705957889557
+Age  27 month  3 you have$1116228.629911614349111914635
+Age  27 month  3 you have$1113158.820436540525406599045
+Age  27 month  3 you have$1110086.452786904294043779373
+Age  27 month  3 you have$1107011.524830893380567431450
+Age  27 month  3 you have$1103934.034434919012710452080
+Age  27 month  3 you have$1100853.979463614756241440773
+Age  27 month  3 you have$1097771.357779834419488906860
+Age  27 month  3 you have$1094686.167244650889188051224
+Age  27 month  3 you have$1091598.405717354733496904373
+Age  27 month  3 you have$1088508.071055452339351177216
+Age  27 month  3 you have$1085415.161114665213972330093
+Age  27 month  3 you have$1082319.673748927423730492592
+Age  27 month  3 you have$1079221.606810384662821888924
+Age  27 month  3 you have$1076120.958149393321946263313
+Age  27 month  3 you have$1073017.725614517694339156151
+Age  27 month  3 you have$1069911.907052529742941260338
+Age  27 month  3 you have$1066803.500308406772091984749
+Age  27 month  3 you have$1063692.503225330263376235962
+Age  27 month  3 you have$1060578.913644684711471199989
+Age  27 month  3 you have$1057462.729406055295839905739
+Age  27 month  3 you have$1054343.948347226949408650398
+Age  27 month  3 you have$1051222.568304182961583137512
+Age  27 month  3 you have$1048098.587111103115603327751
+Age  27 month  3 you have$1044972.002600362291559576988
+Age  27 month  3 you have$1041842.812602529185824096203
+Age  27 month  3 you have$1038711.014946364564821124077
+Age  27 month  3 you have$1035576.607458819751627743244
+Age  27 month  3 you have$1032439.587965035345405340195
+Age  27 month  3 you have$1029299.954288339475169777870
+Age  27 month  3 you have$1026157.704250246286392211914
+Age  27 month  3 you have$1023012.835670454776845872402
+Age  27 month  3 you have$1019865.346366846701130270958
+Age  27 month  3 you have$1016715.234155485639348626137
+Age  27 month  3 you have$1013562.496850615134462714195
+Age  27 month  3 you have$1010407.132264657178893685341
+Age  27 month  3 you have$1007249.138208210933953523636
+Age  27 month  3 you have$1004088.512490050983615219593
+Age  27 month  3 you have$1000925.252917125937528908253
+Age  27 month  3 you have$997759.357294556801207363605
+Age  27 month  3 you have$994590.823425635462626814842
+Age  27 month  3 you have$991419.649111823411658406258
+Age  27 month  3 you have$988245.832152749877423048019
+Age  27 month  3 you have$985069.370346210431307554245
+Age  27 month  3 you have$981890.261488165473565459251
+Age  27 month  3 you have$978708.503372738836333155632
+Age  27 month  3 you have$975524.093792216037400066853
+Age  27 month  3 you have$972337.030537042766809463501
+Age  27 month  3 you have$969147.311395823489874601364
+Age  27 month  3 you have$965954.934155319933779537678
+Age  27 month  3 you have$962759.896600449224933981895
+Age  27 month  3 you have$959562.196514282841235399246
+Age  27 month  3 you have$956361.831678044633008539677
+Age  27 month  3 you have$953158.799871109542436897755
+Age  27 month  3 you have$949953.098871002090163528919
+Age  27 month  3 you have$946744.726453394512645900249
+Age  27 month  3 you have$943533.680392105598002672195
+Age  27 month  3 you have$940319.958459098939783871174
+Age  27 month  3 you have$937103.558424481423571705818
+Age  27 month  3 you have$933884.478056501713581383228
+Age  27 month  3 you have$930662.715121548739261925220
+Age  27 month  3 you have$927438.267384149949066340923
+Age  27 month  3 you have$924211.132606970029883086681
+Age  27 month  3 you have$920981.308550809044390916824
+Age  27 month  3 you have$917748.792974601266905665398
+Age  27 month  3 you have$914513.583635413320735096931
+Age  27 month  3 you have$911275.678288442781195044518
+Age  27 month  3 you have$908035.074687016429379582405
+Age  27 month  3 you have$904791.770582588855177164078
+Age  27 month  3 you have$901545.763724740943871438503
+Age  27 month  3 you have$898297.051861178129911422729
+Age  27 month  3 you have$895045.632737728999927639961
+Age  27 month  3 you have$891791.504098343662917613983
+Age  27 month  3 you have$888534.663685092236846685410
+Age  27 month  3 you have$885275.109238163102418184280
+Age  27 month  3 you have$882012.838495861506089568138
+Age  27 month  3 you have$878747.849194607930257916451
+Age  27 month  3 you have$875480.139068936696276068687
+Age  27 month  3 you have$872209.705851494101807475090
+Age  27 month  3 you have$868936.547273036907427012920
+Age  27 month  3 you have$865660.661062431056052446365
+Age  27 month  3 you have$862382.044946649693883955479
+Age  27 month  3 you have$859100.696650771773420274258
+Age  27 month  3 you have$855816.613897980656474828720
+Age  27 month  3 you have$852529.794409562251530587673
+Age  27 month  3 you have$849240.235904903500340878963
+Age  27 month  3 you have$845947.936101490864530205727
+Age  27 month  3 you have$842652.892714908695779740810
+Age  27 month  3 you have$839355.103458837722428143024
+Age  27 month  3 you have$836054.566045053303241729736
+Age  27 month  3 you have$832751.278183424146845936775
+Age  27 month  3 you have$829445.237581910216249525547
+Age  27 month  3 you have$826136.441946561681106686592
+Age  27 month  3 you have$822824.888981517055071890354
+Age  27 month  3 you have$819510.576389001565985381603
+Age  27 month  3 you have$816193.501869325642473995686
+Age  27 month  3 you have$812873.663120883284136652946
+Age  27 month  3 you have$809551.057840150664560496807
+Age  27 month  3 you have$806225.683721684035845100880
+Age  27 month  3 you have$802897.538458118680864572525
+Age  27 month  3 you have$799566.619740167050622403622
+Age  27 month  3 you have$796232.925256617134436964989
+Age  27 month  3 you have$792896.452694330946542322636
+Age  27 month  3 you have$789557.199738242779858410358
+Age  27 month  3 you have$786215.164071357925422489643
+Age  27 month  3 you have$782870.343374750693328678608
+Age  27 month  3 you have$779522.735327562899328768253
+Age  27 month  3 you have$776172.337607002467848360538
+Age  27 month  3 you have$772819.147888341569341719151
+Age  27 month  3 you have$769463.163844915106892585754
+Age  27 month  3 you have$766104.383148119086399674416
+Age  27 month  3 you have$762742.803467409103177487850
+Age  27 month  3 you have$759378.422470298595726490021
+Age  27 month  3 you have$756011.237822357099503278732
+Age  27 month  3 you have$752641.247187208966352045536
+Age  27 month  3 you have$749268.448226531618274748325
+Age  27 month  3 you have$745892.838600053684785962105
+Age  27 month  3 you have$742514.415965553605929017067
+Age  27 month  3 you have$739133.177978858118876814842
+Age  27 month  3 you have$735749.122293840395286679268
+Age  27 month  3 you have$732362.246562418527901172638
+Age  27 month  3 you have$728972.548434553784318268299
+Age  27 month  3 you have$725580.025558249210007488728
+Age  27 month  3 you have$722184.675579547649249434471
+Age  27 month  3 you have$718786.496142530580982565880
+Age  27 month  3 you have$715385.484889315906912088394
+Age  27 month  3 you have$711981.639460056903772056103
+Age  27 month  3 you have$708574.957492940244264900684
+Age  27 month  3 you have$705165.436624184250831604004
+Age  27 month  3 you have$701753.074488037615083158016
+Age  27 month  3 you have$698337.868716777535155415535
+Age  27 month  3 you have$694919.816940708085894584656
+Age  27 month  3 you have$691498.916788158589042723179
+Age  27 month  3 you have$688075.165885481983423233032
+Age  27 month  3 you have$684648.561857053195126354694
+Age  27 month  3 you have$681219.102325267391279339790
+Age  27 month  3 you have$677786.784910538350231945515
+Age  27 month  3 you have$674351.607231297064572572708
+Age  27 month  3 you have$670913.566903989762067794800
+Age  27 month  3 you have$667472.661543076392263174057
+Age  27 month  3 you have$664028.888761028880253434181
+Age  27 month  3 you have$660582.246168329729698598385
+Age  27 month  3 you have$657132.731373469927348196507
+Age  27 month  3 you have$653680.341982947778888046741
+Age  27 month  3 you have$650225.075601266813464462757
+Age  27 month  3 you have$646766.929830934503115713596
+Age  27 month  3 you have$643305.902272460167296230793
+Age  27 month  3 you have$639841.990524353808723390102
+Age  27 month  3 you have$636375.192183124017901718616
+Age  27 month  3 you have$632905.504843276576139032841
+Age  27 month  3 you have$629432.926097312592901289463
+Age  27 month  3 you have$625957.453535726992413401604
+Age  27 month  3 you have$622479.084747006651014089584
+Age  27 month  3 you have$618997.817317629116587340832
+Age  27 month  3 you have$615513.648832060396671295166
+Age  27 month  3 you have$612026.576872753677889704704
+Age  27 month  3 you have$608536.599020147579722106457
+Age  27 month  3 you have$605043.712852664291858673096
+Age  27 month  3 you have$601547.915946708177216351032
+Age  27 month  3 you have$598049.205876663676463067532
+Age  27 month  3 you have$594547.580214894143864512444
+Age  27 month  3 you have$591043.036531739868223667145
+Age  27 month  3 you have$587535.572395516210235655308
+Age  27 month  3 you have$584025.185372512438334524632
+Age  27 month  3 you have$580511.873026989516802132130
+Age  27 month  3 you have$576995.632921178592368960381
+Age  27 month  3 you have$573476.462615279480814933777
+Age  27 month  3 you have$569954.359667458804324269295
+Age  27 month  3 you have$566429.321633848245255649090
+Age  27 month  3 you have$562901.346068543032743036747
+Age  27 month  3 you have$559370.430523600080050528049
+Age  27 month  3 you have$555836.572549036354757845402
+Age  27 month  3 you have$552299.769692827132530510426
+Age  27 month  3 you have$548760.019500904483720660210
+Age  27 month  3 you have$545217.319517155177891254425
+Age  27 month  3 you have$541671.667283419403247535229
+Age  27 month  3 you have$538123.060339488903991878033
+Age  27 month  3 you have$534571.496223105117678642273
+Age  27 month  3 you have$531016.972469957661814987659
+Age  27 month  3 you have$527459.486613682587631046772
+Age  27 month  3 you have$523899.036185860633850097656
+Age  27 month  3 you have$520335.618716015480458736420
+Age  27 month  3 you have$516769.231731612118892371655
+Age  27 month  3 you have$513199.872758055105805397034
+Age  27 month  3 you have$509627.539318686758633702993
+Age  27 month  3 you have$506052.228934785642195492983
+Age  27 month  3 you have$502473.939125564589630812407
+Age  27 month  3 you have$498892.667408169189002364874
+Age  27 month  3 you have$495308.411297675978858023882
+Age  27 month  3 you have$491721.168307090643793344498
+Age  27 month  3 you have$488130.935947346501052379608
+Age  27 month  3 you have$484537.711727302579674869776
+Age  27 month  3 you have$480941.493153741932474076748
+Age  27 month  3 you have$477342.277731370006222277880
+Age  27 month  3 you have$473740.062962812779005616903
+Age  27 month  3 you have$470134.846348615072201937437
+Age  27 month  3 you have$466526.625387238862458616495
+Age  27 month  3 you have$462915.397575061535462737083
+Age  27 month  3 you have$459301.160406374023295938969
+Age  27 month  3 you have$455683.911373379291035234928
+Age  27 month  3 you have$452063.647966190415900200605
+Age  27 month  3 you have$448440.367672828841023147106
+Age  27 month  3 you have$444814.067979222803842276335
+Age  27 month  3 you have$441184.746369205473456531763
+Age  27 month  3 you have$437552.400324513087980449200
+Age  27 month  3 you have$433917.027324783499352633953
+Age  27 month  3 you have$430278.624847554136067628860
+Age  27 month  3 you have$426637.190368260373361408710
+Age  27 month  3 you have$422992.721360233903396874666
+Age  27 month  3 you have$419345.215294700697995722294
+Age  27 month  3 you have$415694.669640779553446918726
+Age  27 month  3 you have$412041.081865480169653892517
+Age  27 month  3 you have$408384.449433701345697045326
+Age  27 month  3 you have$404724.769808229408226907253
+Age  27 month  3 you have$401062.040449736232403665781
+Age  27 month  3 you have$397396.258816777670290321112
+Age  27 month  3 you have$393727.422365791629999876022
+Age  27 month  3 you have$390055.528551096445880830288
+Age  27 month  3 you have$386380.574824889015872031450
+Age  27 month  3 you have$382702.558637243055272847414
+Age  27 month  3 you have$379021.477436107408720999956
+Age  27 month  3 you have$375337.328667304129339754581
+Age  27 month  3 you have$371650.109774526848923414946
+Age  27 month  3 you have$367959.818199338915292173624
+Age  27 month  3 you have$364266.451381171646062284708
+Age  27 month  3 you have$360570.006757322582416236401
+Age  27 month  3 you have$356870.481762953626457601786
+Age  27 month  3 you have$353167.873831089411396533251
+Age  27 month  3 you have$349462.180392615264281630516
+Age  27 month  3 you have$345753.398876275750808417797
+Age  27 month  3 you have$342041.526708672638051211834
+Age  27 month  3 you have$338326.561314263148233294487
+Age  27 month  3 you have$334608.500115358328912407160
+Age  27 month  3 you have$330887.340532121073920279741
+Age  27 month  3 you have$327163.079982564493548125029
+Age  27 month  3 you have$323435.715882549935486167669
+Age  27 month  3 you have$319705.245645785355009138584
+Age  27 month  3 you have$315971.666683823452331125736
+Age  27 month  3 you have$312234.976406059926375746727
+Age  27 month  3 you have$308495.172219731612130999565
+Age  27 month  3 you have$304752.251529914676211774349
+Age  27 month  3 you have$301006.211739522928837686777
 
 Overall Grade: F
