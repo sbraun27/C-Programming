@@ -25,7 +25,7 @@ void retirement (int startAge, double initial, retire_info working, retire_info 
     int years = currentAge / 12;
     int months = currentAge % 12;
     currentAge += 1;
-    printf("Age %3d month %2d you have$%.21f\n", years, months, accountBalance);
+    printf("Age %3d month %2d you have $%.21f\n", years, months, accountBalance);
     accountBalance = accountBalance * (1 + retired.rate_of_return) + retired.contribution;
   }
   return;
