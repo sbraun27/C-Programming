@@ -24,17 +24,17 @@ double balance_calc(double balance, retire_info retire_stats) {
 
 void retirement (int startAge, double initial, retire_info working, retire_info retired) {
   double accountBalance = initial;
-  int currentAge = startAge-1;
+  int currentAge = startAge;
   
   for (int i=0; i <working.months; i++) {
-    currentAge += 1;
     print_monthly_info(currentAge, accountBalance);
+    currentAge++;
     accountBalance = balance_calc(accountBalance, working);
   }
 
   for (int i = 0; i < retired.months; i++) {
-    currentAge += 1;
     print_monthly_info(currentAge, accountBalance);
+    currentAge++;
     accountBalance = balance_calc(accountBalance, retired);
   }
   return;
