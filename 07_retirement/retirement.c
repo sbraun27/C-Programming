@@ -10,7 +10,7 @@ struct _retire_info {
 typedef struct _retire_info retire_info;
 
 void print_monthly_info(int months, double balance) {
-  printf("Age %3d month %2d you have $%.21f\n", months / 12, months % 12, balance);
+  printf("Age %3d month %2d you have $%.2f\n", months / 12, months % 12, balance);
 
   return;
 }
@@ -51,7 +51,7 @@ int main (void) {
   Retired.contribution = -4000;
   Retired.rate_of_return = (.01 / 12.0);
 
-  retirement(327, 21435, Working, Retired);
+  retirement(327, 21345, Working, Retired);
 
   return 0;
   
